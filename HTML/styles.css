@@ -13,8 +13,8 @@ body {
     background-image: no-repeat;
     background-position: center;
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.644);
+    border-radius: 20px;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.644);
     width: 300px;
 }
 
