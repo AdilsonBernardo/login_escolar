@@ -1,0 +1,64 @@
+body {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image : url('files/Captura\ de\ ecrã\ 2023-11-11\ 171741.png');
+}
+
+.login-container {
+    background-color: rgba(86, 86, 86, 0.27);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.644);
+    width: 300px;
+}
+
+#tema{
+
+      padding: auto;
+      margin: auto;
+      margin-top: 200;
+      
+      
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+    
+
+input {
+    
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 3px solid #dddddd4a;
+    border-radius: 15px;
+}
+
+button {
+    
+    padding: 8px;
+    background-color: #969790c2;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+
+button:hover {
+    
+    background-color: #666;
+}
